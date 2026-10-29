@@ -272,3 +272,9 @@ pokedex/
 ➡️ **Siguiente paso:** continúa con la [guía del backend](./backend/README.md) y luego con la [guía del frontend](./frontend/README.md).
 
 ¡Mucho éxito y a disfrutar el viaje! 🚀
+
+## Contacto de docente
+
+Pablo Pérez Martínez
+[paperez@puce.edu.ec](mailto:paperez@puce.edu.ec)
+
